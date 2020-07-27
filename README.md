@@ -1,2 +1,2 @@
-# WeJapa-Internship-task1
+# WeJapa-Vue-task1
  
